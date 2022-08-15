@@ -1,4 +1,4 @@
--- It is a phonebook project written in Python.
--- Runs on AWS Ec2 virtual machine.
--- Architecture is designed with IaC tool terraform.
--- Required .tf files are in tf-files.
+-- It is a phonebook project written in Python.  
+-- Runs on AWS Ec2 virtual machine.  
+-- Architecture is designed with IaC tool terraform.  
+-- Required .tf files are in tf-files.  
